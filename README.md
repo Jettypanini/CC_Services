@@ -9,7 +9,7 @@ Gebruiker geeft een aantal parameters in een form die via een POST commando word
 ### Automatic drilling machine
 Gebruikers geeft parameters in omtrent een automatische boormachine. Deze worden via een JSON naar de service gestuurd.
 
-### Stock market Jetcoin sim
+### Jetcoin sim
 Gebruiker kan kiezen om Jetcoins bij te kopen, te verkopen of te wachten. Naargelang de keuze van gebruikers hiervan zal de waarde van de Jetcoin stijgen of dalen en kan je bijhouden of je winst of verlies maakt.
 
 ### Music mood finder

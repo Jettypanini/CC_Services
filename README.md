@@ -8,7 +8,7 @@ Gebruiker geeft nieuw wachtwoord in dat gehasht wordt en opgeslagen in de db. Wa
 
 ### MMF add song
 
-### MMF year song finder
+### MMF: Music year finder (MYF)
 
 ### MMF set preferences
 

@@ -4,7 +4,7 @@
 Gebruiker geeft nieuw wachtwoord in dat gehasht wordt en opgeslagen in de db. Wanneer een gebruiker wil inloggen wordt het ingegeven wachtwoord via hashing vergeleken met de hashes in de db.
 
 ### Dating service
-Gebruiker geeft een aantal parameters in een form die via een POST commando worden aangegeven. Indien de gebruiker vrouwelijk is zal deze altijd het resultaat "Just Jethro" krijgen.
+Gebruiker geeft een aantal parameters in die via een POST commando worden aangegeven. Indien de gebruiker vrouwelijk is zal deze altijd het resultaat "Jethro" krijgen.
 
 ### Automatic drilling machine
 Gebruikers geeft parameters in omtrent een automatische boormachine. Deze worden via een JSON naar de service gestuurd.

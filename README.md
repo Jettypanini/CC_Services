@@ -10,7 +10,7 @@ Gebruiker geeft nieuw wachtwoord in dat gehasht wordt en opgeslagen in de db. Wa
 
 ### MMF year song finder
 
-## MMF set preferences
+### MMF set preferences
 
 ### Dating service
 Gebruiker geeft een aantal parameters in die via een POST commando worden aangegeven. Indien de gebruiker vrouwelijk is zal deze altijd het resultaat "Jethro" krijgen.

@@ -12,8 +12,6 @@ Gebruiker geeft nieuw wachtwoord in dat gehasht wordt en opgeslagen in de db. Wa
 
 ### MMF add song
 
-### MMF: Music year finder (MYF)
-
 ### MMF set preferences
 
 ## Dating service
@@ -24,6 +22,9 @@ Gebruiker geeft een aantal parameters in die via een POST commando worden aangeg
 Built with C#/SOAP XML
 
 Docker container done
+
+### Send to match
+C#/REST XML
 
 ## Jetcoin sim
 

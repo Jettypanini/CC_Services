@@ -32,4 +32,4 @@ Gebruiker kan kiezen om Jetcoins bij te kopen, te verkopen of te wachten. Naarge
 Node.js with Express
 
 ### Jetcoin transfer
-Python with websockets
+Python/Flask with websockets

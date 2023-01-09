@@ -7,4 +7,4 @@ COPY . .
 EXPOSE 5010
 RUN chown -R node /usr/src/app
 USER node
-CMD ["forever start", "index.js"]
+CMD ["node", "index.js"]

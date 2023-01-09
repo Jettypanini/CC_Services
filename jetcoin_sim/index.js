@@ -1,8 +1,6 @@
 const express = require('express')
-const pgp = require('pg-promise')
-const db = pgp('postgres://vtjjrehd:VNH1fjg1i_mTVM3Y-sk4-He8w1WPu6EF@mel.db.elephantsql.com/vtjjrehd')
 const app = express()
-const port = 5003
+const port = 5010
 
 var jetcoinval = 0;
 
@@ -38,5 +36,3 @@ app.use((req,res,next)=> { // als laatste
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`);
 })
-
-con.end()

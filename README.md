@@ -11,6 +11,7 @@ PHP/Laravel REST
 Gebruiker geeft nieuw wachtwoord in dat gehasht wordt en opgeslagen in de db. Wanneer een gebruiker wil inloggen wordt het ingegeven wachtwoord via hashing vergeleken met de hashes in de db.
 
 ### MMF add song
+C#/REST JSON
 
 ### MMF set preferences
 
@@ -22,7 +23,6 @@ Gebruiker geeft een aantal parameters in die via een POST commando worden aangeg
 C#/SOAP XML -> Working docker image
 
 ### Send to match
-C#/REST XML
 
 ## Jetcoin sim
 

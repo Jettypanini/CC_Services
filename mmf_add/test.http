@@ -1,0 +1,3 @@
+GET https://localhost:7232/api/MMFAdd
+GET https://localhost:7232/api/MMFAdd/2017
+GET https://localhost:7232/api/MMFAdd/1995

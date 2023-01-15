@@ -10,6 +10,8 @@ PHP/Laravel REST
 ### Password database MMF
 Gebruiker geeft nieuw wachtwoord in dat gehasht wordt en opgeslagen in de db. Wanneer een gebruiker wil inloggen wordt het ingegeven wachtwoord via hashing vergeleken met de hashes in de db.
 
+NodeJs Express GraphQL
+
 ### MMF add song
 C#/REST JSON
 

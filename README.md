@@ -34,4 +34,3 @@ Gebruiker kan kiezen om Jetcoins bij te kopen, te verkopen of te wachten. Naarge
 Node.js with Express -> Working docker image
 
 ### Jetcoin transfer
-Node.js with GraphQL.js

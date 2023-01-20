@@ -10,10 +10,10 @@ PHP/Laravel REST
 ### Password database MMF
 Gebruiker geeft nieuw wachtwoord in dat gehasht wordt en opgeslagen in de db. Wanneer een gebruiker wil inloggen wordt het ingegeven wachtwoord via hashing vergeleken met de hashes in de db.
 
-NodeJs Express GraphQL
+NodeJs Express GraphQL -> Working docker image
 
 ### MMF add song
-C#/REST JSON
+C#/REST JSON -> Working docker image
 
 ### MMF set preferences
 
@@ -31,6 +31,6 @@ C#/SOAP XML -> Working docker image
 ### Jetcoin sim
 Gebruiker kan kiezen om Jetcoins bij te kopen, te verkopen of te wachten. Naargelang de keuze van gebruikers hiervan zal de waarde van de Jetcoin stijgen of dalen en kan je bijhouden of je winst of verlies maakt.
 
-Node.js with Express -> Working docker image
+Node.js with Express -> Working VM
 
 ### Jetcoin transfer

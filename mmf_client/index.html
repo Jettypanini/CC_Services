@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MMF</title>
+
+    <script src="functies.js"></script>
+    <link rel="stylesheet" href="vormgeving.css">
+</head>
+<body>
+    <h1>Music Mood Finder</h1>
+    <form>
+        <table>
+            <tr>
+                <td><label for="naam">Name:</label></td>
+                <td><input type="text" id="naam" placeholder="name" /></td>
+            </tr>
+            <tr>
+                <td><label for="mood">Select Mood:</label></td>
+                <td>
+                <select id="mood" class="form-control" onchange="getSong(this.value);">
+                <option>Pick a mood</option>
+	            <option value="http://127.0.0.1:8000/result/blij">Blij</option>
+	            <option value="http://127.0.0.1:8000/result/triest">Droevig</option>
+	            </select>
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><iframe id="song" width='1120' height='630' src="" title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe></td>
+            </tr>
+        </table>
+    </form>
+
+    <script>
+        function getSong(mood) {
+            //fetch(mood)
+            //    .then(response => {if (response.ok) return response.txt(); else alert("foutje");})
+            //    .then(updateVideo);
+            location.replace(mood)
+            //updateVideo();
+            
+        }
+
+        function updateVideo(video) {
+            document.getElementById('song').src = "https://youtu.be/dQw4w9WgXcQ"//video;
+        }
+    </script>
+    
+</body>
+</html>

@@ -26,8 +26,6 @@ Gebruiker geeft een aantal parameters in die via een POST commando worden aangeg
 
 C#/SOAP XML -> Working docker image
 
-### Send to match
-
 ## Jetcoin sim
 
 ### Jetcoin sim
